@@ -1,6 +1,5 @@
-* action
-* Function call overloading
-* "await" statement
-* "complete action" statement
-* "break action" statement
+* Conditional entities
+* Alias-variable for predicate
+* Bus for sound facts
+* Player: initial implementation
 * Fixing issues
