@@ -1,5 +1,2 @@
-* Conditional entities
-* Alias-variable for predicate
-* Bus for sound facts
-* Player: initial implementation
+* "use" statement has been renamed to "set" statement
 * Fixing issues
