@@ -4,6 +4,8 @@
 * Generalized call in host method
 * Priority of method or thigger's handler
 * Timeout of method or idle action
+* Anonymous function
+* Function defined in body of another function
 * Library
 * "import" statement
 * CLI:
