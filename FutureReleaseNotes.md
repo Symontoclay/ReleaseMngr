@@ -8,6 +8,9 @@
 * Function defined in body of another function
 * Library
 * "import" statement
+* Object literal
+* "new" operator
+* Constructor
 * CLI:
   * install
   * new -lib
