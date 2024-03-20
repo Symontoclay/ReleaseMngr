@@ -1,3 +1,2 @@
-* "each" timer
-* "once" timer
+* Improved monitoring and logging
 * Fixing issues
